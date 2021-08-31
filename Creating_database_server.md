@@ -1,6 +1,6 @@
 # Requirements to set up and use DDCB compund database
 
-##1. Database server  (Ubuntu 18 + MySQL)
+## 1. Database server  (Ubuntu 18 + MySQL)
 
 (Incomplete) set of installation commands:
 ```text
