@@ -142,7 +142,7 @@ kubectl exec deployment/toolbox -it touch /opt/chipster/toolbox/.reload/touch-me
 pip install WeasyPrint
 ```
 
-Wheasyprint needs a wrapper server
+Wheasyprint needs a wrapper script
 ```text
 #!/bin/bash
 source /opt/chipster/venv/bin/activate
